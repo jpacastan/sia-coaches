@@ -47,6 +47,13 @@ const profiles = [
         name: "Ambra Curetti",
         linkedinurl: "https://www.linkedin.com/in/ambracuretti?originalSubdomain=ch",
         shortdescription: "test",
+        testobj:
+            <ul>
+                <li>Digital Product Strategy</li>
+                <li>Digital Product Development</li>
+                <li>Software Teams and Offshoring</li>
+            </ul>,
+        longdescription: "Digital Product Strategy How to build a software? Which features? Where do I start? How do I go about the initial research? How do I launch my product?Digital Product Development What technologies are right for my product? Should I build a website or an app? Do I need a team of developers? What low-tech options are available?Software Teams and Offshoring How and where to find the right partner? What budget and timeline should I expect? How to build an engineering team? How to manage designers and developers? The best fit for my competencies are tech startups in need of a CTO or Product Manager. The industries where I have the most experience: Education, Consumer services and mobile apps"
     },
     {
         key: 2,
@@ -54,6 +61,7 @@ const profiles = [
         name: "Cécile Rouyer",
         linkedinurl: "https://www.linkedin.com/in/cecilerouyer/?originalSubdomain=ch",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 3,
@@ -61,6 +69,7 @@ const profiles = [
         name: "Anne Marie Schulte",
         linkedinurl: "https://www.linkedin.com/in/impactvision/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 4,
@@ -68,6 +77,7 @@ const profiles = [
         name: "Rauand Kreutzer",
         linkedinurl: "https://www.linkedin.com/in/rauand-kreutzer/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 5,
@@ -75,6 +85,7 @@ const profiles = [
         name: "Olga Elizarova",
         linkedinurl: "https://www.linkedin.com/in/olgaelizarova/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 6,
@@ -82,6 +93,7 @@ const profiles = [
         name: "Sarah Linder",
         linkedinurl: "https://www.linkedin.com/in/sarah-linder-530a0683/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 7,
@@ -89,6 +101,7 @@ const profiles = [
         name: "Isabelle Siegrist",
         linkedinurl: "https://www.linkedin.com/in/isabelle-siegrist-84a5a25b/?originalSubdomain=ch",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 8,
@@ -96,6 +109,7 @@ const profiles = [
         name: "Beatrice Scarioni",
         linkedinurl: "https://www.linkedin.com/in/beatrice-scarioni-7299894a/?originalSubdomain=ch",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 9,
@@ -103,6 +117,7 @@ const profiles = [
         name: "Rahel Gerber",
         linkedinurl: "https://www.linkedin.com/in/rahel-gerber-089b1527/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 10,
@@ -110,6 +125,7 @@ const profiles = [
         name: "Patrick Scheuerer",
         linkedinurl: "https://www.linkedin.com/in/patrickscheuerer/?originalSubdomain=ch",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 11,
@@ -117,6 +133,7 @@ const profiles = [
         name: "Ella Stuart",
         linkedinurl: "https://www.linkedin.com/in/ella-stuart/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 12,
@@ -124,6 +141,7 @@ const profiles = [
         name: "Connie Low",
         linkedinurl: "https://www.linkedin.com/in/connielow/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 13,
@@ -131,6 +149,7 @@ const profiles = [
         name: "Marina Hasler",
         linkedinurl: "https://www.linkedin.com/in/marina-hasler-b065b346/?originalSubdomain=ch",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 14,
@@ -138,6 +157,7 @@ const profiles = [
         name: "Adam Collins",
         linkedinurl: "https://www.linkedin.com/in/abcollins/?originalSubdomain=ch",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 15,
@@ -145,6 +165,7 @@ const profiles = [
         name: "Céline Bedu",
         linkedinurl: "https://www.linkedin.com/in/abcollins/?originalSubdomain=ch",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 16,
@@ -152,6 +173,7 @@ const profiles = [
         name: "Anja Nieveler",
         linkedinurl: "https://www.linkedin.com/in/anjanieveler/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 17,
@@ -159,6 +181,7 @@ const profiles = [
         name: "Emily Elsner",
         linkedinurl: "https://www.linkedin.com/in/emily-elsner-adams-b22833b2/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 18,
@@ -166,6 +189,7 @@ const profiles = [
         name: "Jeannine Brutschin",
         linkedinurl: "https://www.linkedin.com/in/jeanninebrutschin/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 19,
@@ -173,6 +197,7 @@ const profiles = [
         name: "Lucy Antrobus",
         linkedinurl: "https://www.linkedin.com/in/lucyantrobus/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 20,
@@ -180,6 +205,7 @@ const profiles = [
         name: "Alex Paur",
         linkedinurl: "https://www.linkedin.com/in/alexpaur/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAMcs2oB77u9bilumOg12r84keGS0Nuxk8A",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 21,
@@ -187,6 +213,7 @@ const profiles = [
         name: "Mariana Christen Jakob",
         linkedinurl: "https://www.linkedin.com/in/mariana-christen-jakob-29000a3b/?originalSubdomain=ch",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     },
     {
         key: 22,
@@ -194,6 +221,7 @@ const profiles = [
         name: "Anna Duszczynska",
         linkedinurl: "https://www.linkedin.com/in/anna-duszczynska/",
         shortdescription: "test",
+        testobj: <li>Testobj</li>
     }
 ]
 
@@ -232,6 +260,8 @@ export default function AllCards() {
                         profilepic={profile.image}
                         shortdescription={profile.shortdescription}
                         linkedinurl={profile.linkedinurl}
+                        testobj={profile.testobj}
+                        longdescription={profile.longdescription}
                     ></RecipeReviewCard>
                 )}
             </Grid>
@@ -248,75 +278,54 @@ export function RecipeReviewCard(props) {
     };
 
     return (
-        <Grid item xs={12} sm={6} md={4} lg={3} xl={1}>
-        <Card className={classes.root}>
-            <CardHeader
-                avatar={
-                    <Avatar aria-label="recipe" className={classes.avatar}>SIA</Avatar>
-                }
-                action={
-                    <IconButton aria-label="settings">
-                        <MoreVertIcon />
-                    </IconButton>
-                }
-                title={props.name}
-                subheader="Maybe some title?"
-            />
-            <CardMedia
-                className={classes.media}
-                image={props.profilepic}
-            />
-            <CardContent>
-                <Typography variant="body2" color="textSecondary" component="p">
-                    {props.shortdescription}
-                </Typography>
-            </CardContent>
-            <CardActions disableSpacing>
-                <Button 
-                    variant="outlined"
-                    color="primary"
-                    onChange={() => {navigate(props.linkedinurl)}}>
-                        <a href={props.linkedinurl}>Linkedin</a>
-                </Button>
-                <IconButton
-                    className={clsx(classes.expand, {
-                        [classes.expandOpen]: expanded,
-                    })}
-                    onClick={handleExpandClick}
-                    aria-expanded={expanded}
-                    aria-label="show more"
-                >
-                    <ExpandMoreIcon />
-                </IconButton>
-            </CardActions>
-            <Collapse in={expanded} timeout="auto" unmountOnExit>
+        <Grid item xs={12} sm={6} md={4} lg={3} xl={3}>
+            <Card className={classes.root}>
+                <CardHeader
+                    avatar={
+                        <Avatar aria-label="recipe" className={classes.avatar}>SIA</Avatar>
+                    }
+                    action={
+                        <IconButton aria-label="settings">
+                            <MoreVertIcon />
+                        </IconButton>
+                    }
+                    title={props.name}
+                    subheader="Maybe some title?"
+                />
+                {props.testobj}
+                <CardMedia
+                    className={classes.media}
+                    image={props.profilepic}
+                />
                 <CardContent>
-                    <Typography paragraph>Method:</Typography>
-                    <Typography paragraph>
-                        Heat 1/2 cup of the broth in a pot until simmering, add saffron and set aside for 10
-                        minutes.
-          </Typography>
-                    <Typography paragraph>
-                        Heat oil in a (14- to 16-inch) paella pan or a large, deep skillet over medium-high
-                        heat. Add chicken, shrimp and chorizo, and cook, stirring ocasionally until lightly
-                        browned, 6 to 8 minutes. Transfer shrimp to a large plate and set aside, leaving chicken
-                        and chorizo in the pan. Add pimentón, bay leaves, garlic, tomatoes, onion, salt and
-                        pepper, and cook, stirring often until thickened and fragrant, about 10 minutes. Add
-                        saffron broth and remaining 4 1/2 cups chicken broth; bring to a boil.
-          </Typography>
-                    <Typography paragraph>
-                        Add rice and stir very gently to distribute. Top with artichokes and peppers, and cook
-                        without stirring, until most of the liquid is absorbed, 15 to 18 minutes. Reduce heat to
-                        medium-low, add reserved shrimp and mussels, tucking them down into the rice, and cook
-                        again without stirring, until mussels have opened and rice is just tender, 5 to 7
-                        minutes more. (Discard any mussels that don’t open.)
-          </Typography>
-                    <Typography>
-                        Set aside off of the heat to let rest for 10 minutes, and then serve.
-          </Typography>
+                    <Typography variant="body2" color="textSecondary" component="p">
+                        {props.shortdescription}
+                    </Typography>
                 </CardContent>
-            </Collapse>
-        </Card>
+                <CardActions disableSpacing>
+                    <Button
+                        variant="outlined"
+                        color="primary"
+                        onChange={() => { navigate(props.linkedinurl) }}>
+                        <a href={props.linkedinurl}>Linkedin</a>
+                    </Button>
+                    <IconButton
+                        className={clsx(classes.expand, {
+                            [classes.expandOpen]: expanded,
+                        })}
+                        onClick={handleExpandClick}
+                        aria-expanded={expanded}
+                        aria-label="show more"
+                    >
+                        <ExpandMoreIcon />
+                    </IconButton>
+                </CardActions>
+                <Collapse in={expanded} timeout="auto" unmountOnExit>
+                    <CardContent>
+                        <Typography paragraph>{props.longdescription}</Typography>
+                    </CardContent>
+                </Collapse>
+            </Card>
         </Grid>
     );
 }
