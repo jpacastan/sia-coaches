@@ -7,12 +7,9 @@ import CardMedia from '@material-ui/core/CardMedia';
 import CardContent from '@material-ui/core/CardContent';
 import CardActions from '@material-ui/core/CardActions';
 import Collapse from '@material-ui/core/Collapse';
-import Avatar from '@material-ui/core/Avatar';
 import IconButton from '@material-ui/core/IconButton';
 import Typography from '@material-ui/core/Typography';
-import { red } from '@material-ui/core/colors';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
-import MoreVertIcon from '@material-ui/icons/MoreVert';
 import c0 from '../images/c0.png'
 import c1 from '../images/c1.png'
 import c2 from '../images/c2.png'
@@ -394,9 +391,6 @@ const useStyles = makeStyles((theme) => ({
     expandOpen: {
         transform: 'rotate(180deg)',
     },
-    avatar: {
-        backgroundColor: red[500],
-    },
 }));
 
 export default function AllCards() {
@@ -432,9 +426,6 @@ export function RecipeReviewCard(props) {
         <Grid item xs={12} sm={6} md={4} lg={3} xl={3}>
             <Card className={classes.root}>
                 <CardHeader
-                    avatar={
-                        <Avatar aria-label="recipe" className={classes.avatar}>SIA</Avatar>
-                    }
                     title={props.name}
                     subheader={props.shortdescription}
                 />
