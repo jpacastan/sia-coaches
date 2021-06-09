@@ -106,9 +106,9 @@ const profiles = [
         shortdescription: "test",
         fewpoints:
             <ul>
-                <li><Typography>Digital Product Strategy</Typography></li>
-                <li><Typography>Digital Product Development</Typography></li>
-                <li><Typography>Software Teams and Offshoring</Typography></li>
+                <li><Typography>Behavioral science/behavioral design</Typography></li>
+                <li><Typography>User research</Typography></li>
+                <li><Typography>Design thinking</Typography></li>
             </ul>,
         longdescription: "Behavioral science/behavioral design Apply behavioral science principles and best practices to product/service design, data collection and analysis, and product strategy Identify behavioral barriers and facilitators relevant for the company's target behavior(s) Help build behavioral science strategy for the product/service, experience or communication around it (i.e. strategies that could be tested to increase donations or engagement)Research User research - mixed methods, quantitative and qualitative Creating surveys Writing moderator's guides for interviews Analyzing and synthesizing research Translating research into product/service recommendations Help develop research summaries of design, content and strategy implications for product or serviceDesign thinking (or user-centered design) Applying co-design to bring in people affected by the problem into the process of shaping solution Map people's experiences and align it with company's product/service experience (i.e. journey mapping) Identify and capture opportunities for product/service improvement from users' perspectives (unmet needs) Apply design thinking best practices to product/service to improve adoption and engagement"
     },
