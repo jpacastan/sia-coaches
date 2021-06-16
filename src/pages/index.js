@@ -31,6 +31,7 @@ import c19 from '../images/c19.png'
 import c20 from '../images/c20.png'
 import c21 from '../images/c21.png'
 import c22 from '../images/c22.png'
+import c23 from '../images/c23.png'
 import { Button, Grid } from '@material-ui/core';
 import { navigate } from "gatsby"
 
@@ -57,7 +58,7 @@ const profiles = [
         name: "Cécile Rouyer",
         mailaddress: "rouyerjob@hotmail.com",
         linkedinurl: "https://www.linkedin.com/in/cecilerouyer/?originalSubdomain=ch",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Market positioning</Typography></li>
@@ -72,7 +73,7 @@ const profiles = [
         name: "Anne Marie Schulte",
         mailaddress: "am.schulte@impact-vision.org",
         linkedinurl: "https://www.linkedin.com/in/impactvision/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>(Self-)leadership coaching</Typography></li>
@@ -87,7 +88,7 @@ const profiles = [
         name: "Rauand Kreutzer",
         mailaddress: "r.kreutzer@posteo.de",
         linkedinurl: "https://www.linkedin.com/in/rauand-kreutzer/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Corporate and business development</Typography></li>
@@ -103,7 +104,7 @@ const profiles = [
         name: "Olga Elizarova",
         mailaddress: "olga@playcollaboratechange.com",
         linkedinurl: "https://www.linkedin.com/in/olgaelizarova/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Behavioral science/behavioral design</Typography></li>
@@ -118,7 +119,7 @@ const profiles = [
         name: "Sarah Linder",
         mailaddress: "sarah.linder@seif.org",
         linkedinurl: "https://www.linkedin.com/in/sarah-linder-530a0683/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Impact management</Typography></li>
@@ -132,7 +133,7 @@ const profiles = [
         name: "Isabelle Siegrist",
         mailaddress: "isabelle@sand-born.com",
         linkedinurl: "https://www.linkedin.com/in/isabelle-siegrist-84a5a25b/?originalSubdomain=ch",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Pitching </Typography></li>
@@ -149,7 +150,7 @@ const profiles = [
         name: "Beatrice Scarioni",
         mailaddress: "beatrice.scarioni@epfl.ch",
         linkedinurl: "https://www.linkedin.com/in/beatrice-scarioni-7299894a/?originalSubdomain=ch",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Connecting tech, innovation and social Impact</Typography></li>
@@ -164,7 +165,7 @@ const profiles = [
         name: "Rahel Gerber",
         mailaddress: "rahel.gerber@fundament.swiss",
         linkedinurl: "https://www.linkedin.com/in/rahel-gerber-089b1527/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Strategy & business development</Typography></li>
@@ -180,7 +181,7 @@ const profiles = [
         name: "Patrick Scheuerer",
         mailaddress: "patrick@xpreneurs.co",
         linkedinurl: "https://www.linkedin.com/in/patrickscheuerer/?originalSubdomain=ch",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Participatory and democratic governance</Typography></li>
@@ -195,7 +196,7 @@ const profiles = [
         name: "Ella Stuart",
         mailaddress: "ella@bravelycoaching.co.nz",
         linkedinurl: "https://www.linkedin.com/in/ella-stuart/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Mental Health</Typography></li>
@@ -209,7 +210,7 @@ const profiles = [
         name: "Connie Low",
         mailaddress: "connie.low@impacthub.net",
         linkedinurl: "https://www.linkedin.com/in/connielow/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Teal principles and organization development</Typography></li>
@@ -226,7 +227,7 @@ const profiles = [
         name: "Marina Hasler",
         mailaddress: "marina.hasler@impacthub.net",
         linkedinurl: "https://www.linkedin.com/in/marina-hasler-b065b346/?originalSubdomain=ch",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
 
             <ul>
@@ -244,7 +245,7 @@ const profiles = [
         name: "Adam Collins",
         mailaddress: "adam.collins@impacthub.net",
         linkedinurl: "https://www.linkedin.com/in/abcollins/?originalSubdomain=ch",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Impact logic and measurement</Typography></li>
@@ -257,7 +258,7 @@ const profiles = [
         name: "Céline Bedu",
         mailaddress: "celine.bedu@impacthub.net",
         linkedinurl: "https://www.linkedin.com/in/abcollins/?originalSubdomain=ch",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Teal principles and organization development</Typography></li>
@@ -271,7 +272,7 @@ const profiles = [
         name: "Anja Nieveler",
         mailaddress: "anja.nieveler@impacthub.net",
         linkedinurl: "https://www.linkedin.com/in/anjanieveler/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Community building, space management</Typography></li>
@@ -288,7 +289,7 @@ const profiles = [
         name: "Emily Elsner",
         mailaddress: "emilyadams13@gmail.com",
         linkedinurl: "https://www.linkedin.com/in/emily-elsner-adams-b22833b2/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Organizational learning</Typography></li>
@@ -301,7 +302,7 @@ const profiles = [
         name: "Jeannine Brutschin",
         mailaddress: "jeannine.brutschin@villageoffice.ch",
         linkedinurl: "https://www.linkedin.com/in/jeanninebrutschin/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Community building</Typography></li>
@@ -315,7 +316,7 @@ const profiles = [
         name: "Lucy Antrobus",
         mailaddress: "lucyantro@gmail.com",
         linkedinurl: "https://www.linkedin.com/in/lucyantrobus/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>High-impact pitching</Typography></li>
@@ -334,7 +335,7 @@ const profiles = [
         name: "Alex Paur",
         mailaddress: "alex.paur@impacthub.net",
         linkedinurl: "https://www.linkedin.com/in/alexpaur/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAMcs2oB77u9bilumOg12r84keGS0Nuxk8A",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Impact and profit: Financial modelling, planning and reporting for start-ups</Typography></li>
@@ -348,7 +349,7 @@ const profiles = [
         name: "Mariana Christen Jakob",
         mailaddress: "mcj@seif.org",
         linkedinurl: "https://www.linkedin.com/in/mariana-christen-jakob-29000a3b/?originalSubdomain=ch",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Impact Finance</Typography></li>
@@ -361,12 +362,25 @@ const profiles = [
         name: "Anna Duszczynska",
         mailaddress: "anna.duszczynska@adnewworld.org",
         linkedinurl: "https://www.linkedin.com/in/anna-duszczynska/",
-        shortdescription: "test",
+        shortdescription: "",
         fewpoints:
             <ul>
                 <li><Typography>Branding</Typography></li>
                 <li><Typography>Branding strategy and design</Typography></li>
                 <li><Typography>Conscious brand identify</Typography></li>
+            </ul>,
+        longdescription: "No further details"
+    },
+    {
+        key: 23,
+        image: c23,
+        name: "Michael Mosimann",
+        mailaddress: "Michael.Mosimann@eversheds-sutherland.ch",
+        linkedinurl: "https://www.linkedin.com/in/michael-mosimann-35805b111/",
+        shortdescription: "",
+        fewpoints:
+            <ul>
+                <li><Typography>Legal structures for scaling</Typography></li>
             </ul>,
         longdescription: "No further details"
     }
