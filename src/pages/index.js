@@ -293,6 +293,8 @@ const profiles = [
         fewpoints:
             <ul>
                 <li><Typography>Organizational learning</Typography></li>
+                <li><Typography>Impact measurement</Typography></li>
+                <li><Typography>Education and programme design</Typography></li>
             </ul>,
         longdescription: "No further details"
     },
